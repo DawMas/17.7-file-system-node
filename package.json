@@ -1,0 +1,21 @@
+{
+  "name": "file_system",
+  "version": "1.0.0",
+  "description": "\"praca z plikami\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "files",
+    "sytem",
+    "npm",
+    "node"
+  ],
+  "author": "dave",
+  "license": "ISC",
+  "dependencies": {
+    "stat-mode": "^0.3.0"
+  }
+}
